@@ -836,4 +836,21 @@ footer {
   color: #ccc;
   margin-bottom: 1rem;
 }
+.email-link {
+  color: black;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
 
+.email-link:hover {
+  color: #3da8d8
+}
+.map-link {
+  color: black;
+  text-decoration: none;
+}
+
+.map-link:hover {
+  color: #3da8d8;
+  text-decoration: underline;
+}
